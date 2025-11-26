@@ -4,7 +4,7 @@ https://github.com/maridilo/casopractico3.git
 ## Integrantes
 
 - María Díaz - Heredero López 152337
-- Nombre Apellido 2 (ID)
+- Cintia Santillán García 154184
 - Nombre Apellido 3 (ID, opcional)
 
 ## Descripción
