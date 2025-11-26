@@ -24,7 +24,7 @@ public class OrderSimulationRunner implements CommandLineRunner {
 
         List<Order> orders = createSampleOrders();
 
-        int numThreads = 5; // número de hilos en el pool
+        int numThreads =  orders.size(); // número de hilos en el pool
         ExecutorService executor = Executors.newFixedThreadPool(numThreads);
 
         List<Future<?>> futures = new ArrayList<>();
