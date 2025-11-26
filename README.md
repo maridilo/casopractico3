@@ -5,7 +5,7 @@ https://github.com/maridilo/casopractico3.git
 
 - María Díaz - Heredero López 152337
 - Cintia Santillán García 154184
-- Nombre Apellido 3 (ID, opcional)
+- Suren Hashemi Alam (ID, opcional)
 
 ## Descripción
 
